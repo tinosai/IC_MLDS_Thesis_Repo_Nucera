@@ -1,0 +1,802 @@
+AI in Manufacturing
+Centroid-Based Clustering
+Few-Shot Prompting
+Learning Rate
+Graph Neural Networks
+Remote Sensing
+Tensor Shape
+Scoring
+Fraud Detection
+Offline Inference
+Neural Architecture Search (Nas)
+Parameter Update
+Return
+Bert (Bidirectional Encoder Representations From Transformers)
+Regression Model
+One-Vs.-All
+Least Squares Regression
+Motion Capture
+Activation Function
+Non-Binary Condition
+Recurrent Neural Network
+K-Nearest Neighbors
+Bias (Ethics/Fairness)
+Tpu Worker
+Confirmation Bias
+Spatial Data Science
+Imputation
+Entropy
+DeepMind
+Iteration
+True Positive Rate (Tpr)
+Model Compression
+Deep Model
+In-Set Condition
+N-Gram
+Text Classification
+Image Classification
+Grid Search
+AI in Retail
+Biometrics and AI
+Neural Network
+Healthcare Predictive Analytics
+OpenAI GPT Models
+Step
+Graph Execution
+Chatbots
+Sampling Bias
+Data Privacy
+Objective Function
+Bellman Equation
+Unidirectional Language Model
+Multinomial Regression
+Long Short-Term Memory Networks
+Area Under The Pr Curve
+Feedback Loop
+Individual Fairness
+BERT
+Embedding Space
+Tower
+Multi-Class Classification
+Nonstationarity
+Feature Extraction
+Algorithmic Bias
+Role Prompting
+Efficient Neural Networks
+Inference Path
+Experience Replay
+Model Parallelism
+Candidate Sampling
+Pooling
+Hashing
+Masked Language Model
+Z-Score Normalization
+Loss Curve
+Generalization Curve
+Sequence Modeling
+Root Mean Squared Error (Rmse)
+Gini Impurity
+Evolutionary Algorithms
+Inference
+Shape (Tensor)
+Image Super-Resolution
+Dimensionality Reduction
+Quantile
+Convolution
+Neuro-Linguistic Programming
+Learning Analytics
+Training Loss
+Representation
+Sparsity
+Reinforcement Learning (Rl)
+Sketching
+Pmap
+Binary Condition
+In-Group Bias
+Hallucination
+Synthetic Feature
+Tpu Master
+Agglomerative Clustering
+Node (Decision Tree)
+Perplexity
+Nonlinear
+ETL
+Recommendation System
+Summary
+Cloud Tpu
+Responsible AI
+Environment
+Classification Model
+Candidate Generation
+Pipelining
+Agent
+Image Captioning
+AI in Genomics
+Multi-agent Systems
+Generalized Linear Model
+Modality
+Staged Training
+Tensorstore
+Sigmoid Function
+Word Embedding
+User Matrix
+Sensitive Attribute
+Weight
+Permutation Variable Importances
+Rater
+Scikit-Learn
+Savedmodel
+Feature Selection
+Undersampling
+Discrete Feature
+OpenAI
+Data Fusion
+Convex Set
+Matplotlib
+Procedural Content Generation
+Node (Neural Network)
+Embedding Layer
+Quantization
+Self-driving Cars
+Pipeline
+Mobile AI
+Dense Feature
+Markov Property
+Partitioning Strategy
+Graph
+High-Performance Machine Learning
+Climate Modeling
+Linear Model
+Malware Detection
+Checkpoint
+Data Augmentation
+Independently And Identically Distributed (I.I.D)
+Knowledge Graphs
+Tensor Size
+K-Median
+Nlu
+Meta Learning
+Flax
+Trigram
+Instruction Tuning
+Genetic Algorithms
+Validation Loss
+Hyperparameter
+Data Synthesis
+Optimizer
+Reinforcement Learning From Human Feedback (Rlhf)
+Deep Q-Network (Dqn)
+Reinforcement Learning
+XGBoost
+Negative Class
+Customer Sentiment Analysis
+Root Directory
+Epoch
+GANs for Art Generation
+Information Retrieval
+Partial Derivative
+Crash Blossom
+Precision-Recall Curve
+Bidirectional
+Out-Of-Bag Evaluation (Oob Evaluation)
+Retrieval-Augmented Generation
+Tpu Device
+Depthwise Separable Convolutional Neural Network (Sepcnn)
+Split
+Artificial Intelligence
+A/B Testing
+Configuration
+Transferable Features
+Non-Response Bias
+Reporting Bias
+Data Imputation
+Tpu
+Shard
+Label
+ARIMA
+Exploding Gradient Problem
+Shrinkage
+Wasserstein Loss
+Batch Size
+Instance
+Re-Ranking
+Loss Function
+Parallel and Distributed Machine Learning
+Voice Assistants
+Topic Modeling
+Binning
+Demographic Parity
+Cross-modal Learning
+Gpt (Generative Pre-Trained Transformer)
+Information Extraction
+Vanishing Gradient Problem
+Depth
+Predictive Parity
+Loss Surface
+Hadoop
+Precision
+Emotion Recognition
+Outlier Detection
+Gradient Boosting
+Data Warehousing
+Imbalanced Dataset
+AUC-ROC
+Offline
+Cost
+scikit-learn
+I.I.D.
+Information Gain
+Satellite Imagery Analysis
+Predictive Ml
+Area Under The Roc Curve
+Audio Classification
+StyleGAN
+SciPy
+Robotics Process Automation
+Positive Class
+Random Policy
+Log Loss
+Ablation
+Feature Importances
+Forget Gate
+Automated Machine Learning
+Data Efficiency
+Geospatial Analysis
+Encoder
+Sparse Feature
+MongoDB
+NLP for Low-resource Languages
+Squared Loss
+Sequence-To-Sequence Task
+Numerical Data
+Bidirectional Language Model
+Multimodal Model
+Data Set Or Dataset
+One-Shot Prompting
+Prompt
+Synthetic Data Generation
+L1 Regularization
+Attention Mechanism
+Tpu Resource
+False Negative Rate
+Sequence Model
+Knowledge Distillation
+Temporal Data
+Prompt Tuning
+Convolutional Neural Network
+Generalization
+Unawareness (To A Sensitive Attribute)
+Output Layer
+Parameter Server (Ps)
+Regularization Rate
+Ensemble
+Positional Encoding
+Markov Decision Process (Mdp)
+Pre-Trained Model
+Data Visualization
+Prompt Engineering
+Semi-Supervised Learning
+Collaborative Filtering
+Q-Function
+Imbalanced Data
+Praxis
+PyTorch
+Intrusion Detection Systems
+Explainable Deep Learning
+Clustering
+Cross-Entropy
+Dense Layer
+Greedy Policy
+Edge AI
+AI in Robotics
+GloVe
+Data Compression
+Batch
+Language Translation
+Serving
+LightGBM
+Episode
+Gan
+Ar
+Input Layer
+Numpy
+Simultaneous Localization and Mapping
+Tensor Rank
+Feature
+Monte Carlo Methods
+Natural Language Understanding
+Novelty Detection
+Clipping
+Objective
+Overfitting
+False Negative (Fn)
+Face Recognition
+Nan Trap
+Few-Shot Learning
+Auc (Area Under The Roc Curve)
+Fully Connected Layer
+Action Recognition
+Metric
+Mixed Reality and AI
+Adagrad
+Epsilon Greedy Policy
+Example
+Mesh
+Bias in NLP
+Scaling
+Roc (Receiver Operating Characteristic) Curve
+Hinge Loss
+Bayesian Optimization
+Convex Optimization
+Variational Autoencoder (Vae)
+False Positive (Fp)
+Multilingual Models
+Labeled Example
+Streaming Data
+Logits
+Sampling With Replacement
+Sparse Representation
+Bleu (Bilingual Evaluation Understudy)
+Earth Mover'S Distance (Emd)
+Pose Estimation
+AI in Drug Discovery
+Large Language Model
+Support Vector Machines
+t-SNE
+Learning Interpretability Tool (Lit)
+Plm
+Relation Extraction
+Parameter-Efficient Tuning
+Robotic Process Automation
+Item Matrix
+Evaluation Metrics
+Attention
+Einsum Notation
+Equalized Odds
+Multi-Class Logistic Regression
+Log-Odds
+Self-Training
+Tf.Example
+AI in Finance
+Prediction
+Computer Vision
+Data Lakes
+Dqn
+UMAP
+Unsupervised Learning
+Link Prediction
+Batch Inference
+Classification Threshold
+Model Capacity
+Flaxformer
+Logistic Regression
+Pjit
+Predictive Maintenance
+Dynamic Model
+K-Fold Cross Validation
+Structural Risk Minimization (Srm)
+AI in Cybersecurity
+Empirical Risk Minimization (Erm)
+Disparate Impact
+R-Squared
+Keras
+Outliers
+Tensor
+AI in Healthcare
+Data Analysis
+Online
+T5X
+Queue
+Weighted Sum
+Value Imputation
+Gradient Descent
+Token
+Neural Style Transfer
+State
+Wide Model
+Early Stopping
+Width
+Data Labeling
+Contrastive Learning
+Graph Mining
+AI in Gaming
+Variational Autoencoders
+Knowledge Transfer
+Bagging
+Operation (Op)
+Real-time Analytics
+Lamda (Language Model For Dialogue Applications)
+Label Leakage
+Speech Synthesis
+Search Algorithms
+Decision Tree
+Tensorflow
+Word2Vec
+Tensorflow Playground
+Test
+Holdout Data
+Prior Belief
+Temperature
+Deep Reinforcement Learning
+Medical Image Analysis
+Boosting
+Transfer Learning
+Meta-Learning
+Root
+Discriminative Model
+Lambda
+Neuromorphic Computing
+Multinomial Classification
+L1 Loss
+Bounding Box
+Mean Squared Error (Mse)
+Language Model
+Metrics Api (Tf.Metrics)
+Attribute Sampling
+Feedforward Neural Network (Ffn)
+AI in Earth Sciences
+Convergence
+Counterfactual Fairness
+Federated Learning
+Optax
+Translational Invariance
+Virtual Reality and AI
+Decoder
+Generative Adversarial Network (Gan)
+Fairness Constraint
+Pure Function
+Augmented Reality
+Oblique Condition
+Decision Threshold
+Principal Component Analysis
+Gradient Boosted (Decision) Trees (Gbt)
+Regularization
+Test Set
+Downsampling
+Dynamic
+State-Action Value Function
+Text Span
+Mini-Batch Stochastic Gradient Descent
+Pandas
+Ensemble Learning
+Bias-Variance Tradeoff
+F1 Score
+Video Object Tracking
+Cassandra
+Target Network
+Constituency Parsing
+Batch Normalization
+Object Detection
+Crowdsourcing
+Pax
+Churn Prediction
+Zero-Shot Learning
+Data Bias
+Probabilistic Regression Model
+Deep Learning
+Perceptron
+Keypoints
+Denoising
+Rank (Tensor)
+Prompt Design
+Bayesian Neural Network
+Size Invariance
+Subsampling
+Policy Gradients
+Smart Cities
+Optical Character Recognition
+Mini-Batch
+Loss Aggregator
+Actor-Critic Methods
+Spmd
+Post-Processing
+Rnn
+Inter-Rater Agreement
+Feature Vector
+Pre-Training
+Confusion Matrix
+Group Attribution Bias
+Static
+Device
+Seaborn
+Embedding Vector
+Quantile Bucketing
+User Behavior Analytics
+Experimenter'S Bias
+Deep Q-Networks
+Co-Adaptation
+NoSQL
+Validation Set
+Bias Correction
+Training
+Leaf
+Unlabeled Example
+Multitask
+Co-Training
+Heuristic
+Data Transformation
+Stationarity
+Items
+Mnist
+Blockchain and AI
+Generator
+Layers Api (Tf.Layers)
+Scalar
+Convolutional Filter
+Market Basket Analysis
+Fingerprint Recognition
+Kernel Support Vector Machines (Ksvms)
+AI Governance
+Selection Bias
+Lit
+Matrix Factorization
+L0 Regularization
+AI Ethics
+Data Cleaning
+Human Activity Recognition
+Action
+Multi-task Learning
+Average Precision
+Categorical Data
+Question Answering Systems
+CatBoost
+Sentiment Analysis
+Threshold (For Decision Trees)
+Stride
+Single Program / Multiple Data (Spmd)
+Recall
+Explainable AI
+Dataframe
+Termination Condition
+Scalable AI
+Autoencoder
+Domain Adaptation
+Machine Learning
+Causal Language Model
+Feature Engineering
+Loss
+Accelerator Chip
+Preprocessing
+Dimension Reduction
+Baseline
+Image Recognition
+Negative Sampling
+Dimensions
+Personalized Learning
+Relu
+Long Short-Term Memory (Lstm)
+Gradient Clipping
+Noise
+Convenience Sampling
+Linear
+Transformer
+Feature Set
+Tensorboard
+Discriminator
+Unsupervised Machine Learning
+Out-of-Distribution Detection
+Differential Privacy
+Spark
+Tensor Processing Unit (Tpu)
+Landmarks
+Cross-Validation
+Weighted Alternating Least Squares (Wals)
+Decision Forest
+Educational Data Mining
+Linear Regression
+Replica
+Tf.Keras
+Natural Language Processing
+Iris Recognition
+Tpu Type
+Calibration Layer
+Model Pruning
+F1
+Saliency Maps
+Splitter
+Intersection Over Union (Iou)
+Model Training
+Fiddle
+Layer
+Node (Tensorflow Graph)
+Dataset Api (Tf.Data)
+Supervised Machine Learning
+Target
+Predictive Rate Parity
+Self-Supervised Learning
+Tpu Node
+Forecasting
+Adversarial Attacks
+Document Analysis
+Ground Truth
+Zero-Shot Prompting
+Trajectory
+Generative Ai
+Performance
+Packed Data
+Broadcasting
+Neuron
+Out-Group Homogeneity Bias
+Sound Synthesis
+Automl
+DBSCAN
+Data Quality
+Training Set
+Incompatibility Of Fairness Metrics
+Big Data
+Minority Class
+Tensorflow Serving
+Privacy-Preserving AI
+Task
+Transformer Models
+Data Parallelism
+Hyperparameter Tuning
+Rank (Ordinality)
+Axis-Aligned Condition
+Time Series Analysis
+Multiclass Classification
+T5
+Fairness Metric
+Normalization
+Mental Health and AI
+False Positive Rate (Fpr)
+Jupyter
+Anomaly Detection in Time Series
+Latent Dirichlet Allocation
+Bucketing
+Particle Swarm Optimization
+Attention Maps
+Online Inference
+Timestep
+Uplift Modeling
+Critic
+Multi-modal Learning
+True Negative (Tn)
+Deep Neural Network
+Variable Importances
+Upweighting
+TensorFlow
+Artificial General Intelligence
+Tpu Slice
+In-Context Learning
+Data Lineage
+Derived Label
+Data Matching
+Policy
+CycleGAN
+Estimator
+Prompt-Based Learning
+Ridge Regularization
+One-Shot Learning
+Data Integration
+Hyperplane
+Tpu Chip
+Fine Tuning
+Music Generation
+Audio Signal Processing
+Interpretability
+Spatial Pooling
+Majority Class
+ROC Curve
+Coverage Bias
+Neural Architecture Search
+Hardware Accelerators
+Game Playing AI
+Step Size
+Stochastic Gradient Descent (Sgd)
+Equality Of Opportunity
+Auto-Regressive Model
+Mean Absolute Error (Mae)
+Motion Planning
+Hierarchical Clustering
+Similarity Measure
+Edit Distance
+Game Theory and AI
+Ml
+Text-to-Speech
+Bigram
+Validation
+Image Segmentation
+Interpretable Machine Learning
+Model
+Class
+Sparse Vector
+IoT and AI
+Centroid
+Momentum
+Oversampling
+Generative Pre-trained Transformer
+Direct Prompting
+Full Softmax
+AI in Education
+Bag Of Words
+Active Learning
+Tabular Q-Learning
+Named Entity Recognition
+Static Inference
+Quantum Machine Learning
+Condition
+Convex Function
+Minimax Loss
+Training-Serving Skew
+Reward
+Automation Bias
+Input Generator
+Convolutional Layer
+L2 Regularization
+Feature Cross
+Host
+Self-Attention (Also Called Self-Attention Layer)
+Chain-Of-Thought Prompting
+Parameter
+Underfitting
+Video Analysis
+AI in Agriculture
+Speech Recognition
+Unidirectional
+Missing Data
+L2 Loss
+Bootstrap Aggregating
+Class-Imbalanced Dataset
+Tpu Pod
+Attribute
+Feature Spec
+Dropout Regularization
+Gradient
+Ranking
+Anomaly Detection
+Binary Classification
+Conversational AI
+Audio Source Separation
+True Positive (Tp)
+Implicit Bias
+Saver
+Model Robustness
+Eager Execution
+Rotational Invariance
+SQL
+Iou
+Jax
+Random Forest
+Proxy (Sensitive Attributes)
+GANs for Data Augmentation
+Causal Inference
+Bias (Math) Or Bias Term
+Prediction Bias
+Generative Model
+Softmax
+Customer Analytics
+Distillation
+Squared Hinge Loss
+Xla (Accelerated Linear Algebra)
+Multi-Head Self-Attention
+Replay Buffer
+Test Loss
+Divisive Clustering
+Rectified Linear Unit (Relu)
+AI for Social Good
+One-Hot Encoding
+Data Governance
+Fairness in Machine Learning
+Decision Boundary
+Generative Adversarial Networks
+Disparate Treatment
+Q-Learning
+Summarization Models
+Human-in-the-loop Machine Learning
+K-Means
+Participation Bias
+Random Search
+Lstm
+Wisdom Of The Crowd
+Accuracy
+Content-Based Filtering
+Pr Auc (Area Under The Pr Curve)
+Continuous Feature
+Hidden Layer
+Convolutional Operation
+Synthetic Minority Over-sampling Technique
+Auxiliary Loss
+Proxy Labels
+Backpropagation
+Augmented Reality and AI
